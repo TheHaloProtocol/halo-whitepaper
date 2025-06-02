@@ -1,2 +1,21 @@
-# halo-whitepaper
-Whitepaper of the Halo project – A decentralized system for recording and rewarding human goodness.
+# 光环白皮书
+
+Halo项目的白皮书——一个用于记录和奖励人类善良的分散系统。
+
+---
+
+## 🌟 愿景 Vision
+
+> “Where goodness is seen, remembered, and rewarded.”
+>
+> 「在这里，善被看见，被铭记，也被回报。」
+
+光环协议是一个全球性的去中心化项目，旨在通过区块链与 AI 技术 **记录**、**激励**、**保留** 人类的善行，推动文明进步的「善」价值观传播。
+
+我们相信，善不仅是一种美德，更是一种可以被鼓励与守护的社会力量。在过去，很多善行未被记录、也无人知晓。而在未来，我们希望——
+
+- 每一次帮助他人的瞬间都能被铭记；
+- 每一个温暖的行动都不会白白付出；
+- 每一个善良的你，都会收到来自世界的光。
+
+我们相信，技术不应只是追逐利润的工具，更可以成为托举善意的容器。
